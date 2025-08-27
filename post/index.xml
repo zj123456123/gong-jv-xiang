@@ -2,10 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Example Site</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://zj123456123.github.io/gong-jv-xiang/post/</link>
         <description>Recent content in Posts on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Wed, 27 Aug 2025 15:11:39 +0800</lastBuildDate><atom:link href="https://zj123456123.github.io/gong-jv-xiang/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我在测试网站是否需要静态部署</title>
+        <link>https://zj123456123.github.io/gong-jv-xiang/p/%E6%88%91%E5%9C%A8%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E9%9D%99%E6%80%81%E9%83%A8%E7%BD%B2/</link>
+        <pubDate>Wed, 27 Aug 2025 15:11:39 +0800</pubDate>
+        
+        <guid>https://zj123456123.github.io/gong-jv-xiang/p/%E6%88%91%E5%9C%A8%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E9%9D%99%E6%80%81%E9%83%A8%E7%BD%B2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>我的</title>
+        <link>https://zj123456123.github.io/gong-jv-xiang/p/%E6%88%91%E7%9A%84/</link>
+        <pubDate>Wed, 27 Aug 2025 14:59:04 +0800</pubDate>
+        
+        <guid>https://zj123456123.github.io/gong-jv-xiang/p/%E6%88%91%E7%9A%84/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
